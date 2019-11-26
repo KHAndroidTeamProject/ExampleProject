@@ -1,6 +1,3 @@
-# ExampleProject
-This is Example Project Repo
-
 ## 팀 분할 및 주제 선정  
   
 ### SQL 을 많이 활용해 볼 수 있는 App(Review App)  
