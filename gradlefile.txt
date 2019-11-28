@@ -43,7 +43,7 @@ test {
 }
 
 model {
-    platform {
+    platforms {
         x64 {
             architecture "x64"
         }
