@@ -35,3 +35,9 @@
      사용하지 않는다면 SQLite 면 충분  
 4-3) 통계분석 라이브러리 제작(이항 분포, 기하 분포, 정규 분포, 푸아송 분포)  
 4-4) 만든 라이브러리 기반으로 의미있는 정보 추출   
+
+
+
+* 가상화 관련 자료
+https://www.ibm.com/developerworks/cloud/library/cl-nestedvirtualization/index.html
+https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Ben-Yehuda.pdf
