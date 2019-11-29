@@ -31,7 +31,7 @@ public class DemoApplication {
 
         /* XML Based Action */
         ApplicationContext ctx = new ClassPathXmlApplicationContext(
-                "spring/app-content.xml"
+                "spring/app-context.xml"
         );
 
         MessageRenderer mr2 = ctx.getBean(
