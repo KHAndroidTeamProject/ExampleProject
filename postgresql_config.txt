@@ -1,0 +1,5 @@
+Name: localdb@192.168.99.100
+Comment:
+User: localdb
+Password: 1234abcd          <hidden>
+URL: jdbc:postgresql://192.168.99.100:5432/localdb
