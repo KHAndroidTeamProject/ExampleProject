@@ -1,3 +1,7 @@
-curl -H "Content-Type: application/json" -X POST http://localhost:8080/notification/topic -d "{""title"": ""Hello"", ""message"": ""Test"", ""topic"": ""Contact""}"
+curl -H "Content-Type: application/json" -X POST http://localhost:8080/notification/topic -d "{""title"": ""Hello"", ""message"": ""Test"", ""topic"": ""Contact""}"  
 
-https://stackoverflow.com/questions/11834238/curl-post-command-line-on-windows-restful-service
+https://stackoverflow.com/questions/11834238/curl-post-command-line-on-windows-restful-service  
+
+curl -d "{""title"": ""Hello"", ""message"": ""Test"", ""token"": ""<DEVICE TOKEN>"", ""topic"": ""Contact""}" -H "Content-Type: application/json" -X POST http://localhost:8080/notification/token  
+
+We can see the message on our phone  
