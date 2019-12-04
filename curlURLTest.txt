@@ -1,1 +1,3 @@
 curl -H "Content-Type: application/json" -X POST http://localhost:8080/notification/topic -d "{""title"": ""Hello"", ""message"": ""Test"", ""topic"": ""Contact""}"
+
+https://stackoverflow.com/questions/11834238/curl-post-command-line-on-windows-restful-service
